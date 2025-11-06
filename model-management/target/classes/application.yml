@@ -1,0 +1,24 @@
+# 服务器配置：端口和上下文路径
+server:
+  port: 8080  # 默认HTTP端口，访问API用 http://localhost:8080
+
+# 自定义配置：模型存储目录（相对项目根，会自动创建 ./models 文件夹）
+app:
+  models:
+    dir: ./models  # Windows路径用 ./models；如需绝对路径，改成 D:/java temp task/bit/model-management/models
+
+# 日志配置：调试模型管理操作
+logging:
+  level:
+    root: INFO  # 全局日志级别
+    io.github.hjkhlc.model_management: DEBUG  # 你的包路径，详细输出Service日志
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"  # 日志格式
+
+# Spring Security 基础配置：简单用户名/密码认证（测试用，生产换JWT）
+spring:
+  security:
+    user:
+      name: admin  # 默认用户名（登录API时用）
+      password: 123456  # 默认密码（明文，测试后改成 {noop}123456 加BCrypt）
+      roles: ADMIN  # 分配ADMIN角色，对应Controller的@PreAuthorize

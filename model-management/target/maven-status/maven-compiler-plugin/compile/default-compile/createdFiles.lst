@@ -1,0 +1,4 @@
+io\github\hjkhlc\model_management\entity\ModelEntity.class
+io\github\hjkhlc\model_management\ModelManagementApplication.class
+io\github\hjkhlc\model_management\controller\ModelController.class
+io\github\hjkhlc\model_management\service\ModelService.class
