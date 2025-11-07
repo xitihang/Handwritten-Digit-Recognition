@@ -1,0 +1,13 @@
+{
+    "training_id": "train_001",
+    "model_architecture": "cnn_model",
+    "dataset_name": "mnist",
+    "save_model_name": "cnn_custom_001",
+    "hyperparameters": {
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "epochs": 50,
+        "optimizer": "adam",
+        "loss_function": "cross_entropy"
+    }
+}
