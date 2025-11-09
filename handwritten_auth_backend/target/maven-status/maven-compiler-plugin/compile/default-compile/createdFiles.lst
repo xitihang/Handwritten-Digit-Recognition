@@ -1,0 +1,13 @@
+com\handwritten\auth\auth\dto\LoginRequest$ClientInfo.class
+com\handwritten\auth\auth\AuthController.class
+com\handwritten\auth\common\UnauthorizedException.class
+com\handwritten\auth\captcha\CaptchaService$CaptchaRecord.class
+com\handwritten\auth\common\BusinessException.class
+com\handwritten\auth\auth\dto\LoginRequest.class
+com\handwritten\auth\user\repo\AuthUserRepository.class
+com\handwritten\auth\user\entity\AuthUser.class
+com\handwritten\auth\common\ApiResponse.class
+com\handwritten\auth\common\GlobalExceptionHandler.class
+com\handwritten\auth\AuthApplication.class
+com\handwritten\auth\captcha\CaptchaService.class
+com\handwritten\auth\captcha\CaptchaService$CaptchaResult.class
