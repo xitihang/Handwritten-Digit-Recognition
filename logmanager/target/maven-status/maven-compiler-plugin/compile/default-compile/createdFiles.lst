@@ -1,0 +1,4 @@
+com\example\logmanager\config\CorsConfig.class
+com\example\logmanager\controller\LogController.class
+com\example\logmanager\dto\OperationLog.class
+com\example\logmanager\LogmanagerApplication.class

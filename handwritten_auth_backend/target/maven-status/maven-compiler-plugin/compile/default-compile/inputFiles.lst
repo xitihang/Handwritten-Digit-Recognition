@@ -1,0 +1,12 @@
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\common\GlobalExceptionHandler.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\user\repo\AuthUserRepository.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\user\UserDataInitializer.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\auth\dto\LoginRequest.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\common\UnauthorizedException.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\auth\AuthController.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\AuthApplication.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\captcha\CaptchaService.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\common\ApiResponse.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\config\CorsConfig.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\user\entity\AuthUser.java
+C:\Users\xitihang\Desktop\mnist\mnist\handwritten_auth_backend\src\main\java\com\handwritten\auth\common\BusinessException.java
