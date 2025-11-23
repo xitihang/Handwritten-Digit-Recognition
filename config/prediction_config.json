@@ -1,0 +1,4 @@
+{
+    "mobile_prediction_model": "cnn_model",
+    "model_weights_path": "storage/trained_models/cnn_1762854111735.pth"
+}

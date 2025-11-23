@@ -1,0 +1,13 @@
+{
+    "training_id": "train_20251122_225459",
+    "model_architecture": "cnn_model",
+    "dataset_name": "mnist",
+    "save_model_name": "cnn_1763823299007",
+    "hyperparameters": {
+        "batch_size": 64,
+        "learning_rate": 0.01,
+        "epochs": 50,
+        "optimizer": "adam",
+        "loss_function": "cross_entropy"
+    }
+}
